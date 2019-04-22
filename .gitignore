@@ -1,0 +1,9 @@
+model/
+data/all_50_schemas
+data/dev_data.json
+data/dev_data.p
+data/test_demo.p
+data/test_demo.res
+data/test_demo.res.zip
+data/train_data.json
+data/train_data.p
